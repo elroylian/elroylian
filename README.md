@@ -34,9 +34,11 @@ skills = {
 - 💭 Ask me about: Software Development, AI, and Creating Efficient Solutions
 
 ## My GitHub Stats 📊
-![Elroy Lian's GitHub stats](https://github-readme-stats.vercel.app/api?username=elroylian&show_icons=true&theme=transparent)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elroylian&theme=transparent)](https://github.com/elroylian)
-</br>
+![Elroy Lian's GitHub stats](https://github-readme-stats.vercel.app/api?username=elroylian&show_icons=true&theme=transparent&hide_border=true)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elroylian&layout=compact&theme=transparent&hide_border=true)](https://github.com/elroylian)
+
+> Note: Most Used Languages chart represents only my public code on GitHub and does not reflect experience or skill level.
 
 ---
 ### "Making technology work for people, one commit at a time." 💻
