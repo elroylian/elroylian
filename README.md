@@ -31,12 +31,12 @@ skills = {
 ## Let's Connect! 🤝
 - 💼 [LinkedIn](https://www.linkedin.com/in/elroylian/)
 - 📫 How to reach me: elroy.lian000@gmail.com
-- 💭 Ask me about: Software Development, AI, and Creating Efficient Solutions
+- 💭 Ask me about: Software Development & AI
 
 ## My GitHub Stats 📊
-![Elroy Lian's GitHub stats](https://github-readme-stats.vercel.app/api?username=elroylian&show_icons=true&theme=transparent&hide_border=true)
+![Elroy Lian's GitHub stats](https://github-readme-stats.vercel.app/api?username=elroylian&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elroylian&layout=compact&theme=transparent&hide_border=true)](https://github.com/elroylian)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elroylian&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/elroylian)
 
 > Note: Most Used Languages chart represents only my public code on GitHub and does not reflect experience or skill level.
 
