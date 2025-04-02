@@ -21,9 +21,9 @@ skills = {
     'Languages': ['Python', 'JavaScript', 'TypeScript', 'Java'],
     'Frameworks & Libraries': ['Flask', 'Vue', 'Vite'],
     'Databases': ['MySQL', 'PostgreSQL', 'MariaDB', 'MongoDB'],
-    'IDE': ['VS Code'],
+    'IDE': ['VS Code', 'Cursor'],
     'Tools & Technologies': ['Git', 'Docker'],
-    'Areas of Interest': ['Artificial Intelligence', 'Software Development',]
+    'Areas of Interest': ['Artificial Intelligence', 'Software Development']
 }
 ```
 
@@ -39,6 +39,3 @@ skills = {
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elroylian&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/elroylian)
 
 > Note: Most Used Languages chart represents only my public code on GitHub and does not reflect experience or skill level.
-
----
-### "Making technology work for people, one commit at a time." 💻
